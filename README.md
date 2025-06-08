@@ -1,7 +1,6 @@
 <!-- profile readme - backend dev theme -->
 
 <div align="center">
-  <h2>👋 Hi, welcome to my new GitHub account!</h2>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello,+I+am+Akbar+Maulana+Husada!;I+am+an+Information+Systems+student;I+am+passionate+about+backend+development;" alt="typing text animation" />
   <br />
 <img
