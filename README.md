@@ -1,7 +1,7 @@
 <!-- profile readme - backend dev theme -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello,+I+am+Akbar+Maulana+Husada!;I+am+an+Information+Systems+student;I+am+passionate+about+backend+development;" alt="typing text animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello,+I+am+Akbar+Maulana+Husada!;I+am+an+Information+Systems+student;I+am+passionate+about+backend+development;" alt="typing text animation" />
   <br />
 <img
   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV0ZW44Mm13Z3R1ODZvOXEyb3lxYjI0d3p6Y3Y4N3NoMjVyY3VoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
