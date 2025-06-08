@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" style="margin: 0 5px;" height="40" alt="Svelte" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin: 0 5px;" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="margin: 0 5px;" height="40" alt="Express" />
+  <img src="https://www.fastify.io/images/fastify-logo-inverted.6f9f0f8f.svg" width="100" alt="Fastify" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" style="margin: 0 5px;" height="40" alt="Flutter" />
 </p>
 
