@@ -3,7 +3,7 @@
 # Hello everyone, I'm Akbar 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=9F48E9&center=true&vCenter=true&random=false&width=505&height=60&lines=Interested+in+Backend+Development+⚙️;Loves+Clean+Code+%F0%9F%93%84;Tech+Enthusiast+🚀" alt="Typing SVG" />
-
+</div>
 <br>
 
 ### 🛠️ Technologies and Tools:
@@ -29,10 +29,13 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex;">
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AkbrMlnaa&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" alt="Akbar's Github Stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbrMlnaa&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AkbrMlnaa&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbrMlnaa&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117" /></td>
+  </tr>
+</table>
+
 
 <br>
 
@@ -41,5 +44,3 @@
 <br>
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkbrMlnaa&theme=midnight_purple" />
-
-</div>
