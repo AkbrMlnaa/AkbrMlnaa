@@ -7,7 +7,7 @@
 </div>
 <br>
 
-### 🛠️ Technologies and Tools:
+###  Technologies and Tools:
 
 <div style="display: inline_block"><br>
     <img src="https://skillicons.dev/icons?i=html" />
@@ -28,7 +28,7 @@
 
 <br>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <table>
   <tr>
