@@ -2,7 +2,7 @@
   
 # Hello everyone, I'm Akbar 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&random=false&width=505&height=60&lines=Intrstd+in+Backnd+Dvlopmnt;Clean+Code+Discipline+⚡;Tech+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&random=false&width=505&height=60&lines=Learning Web3 & blockchain;Tech+Passionate about Web3" alt="Typing SVG" />
 
 </div>
 <br>
