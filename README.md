@@ -11,41 +11,28 @@
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <div align="center"><br>
-  <!-- Baris 1 -->
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
-  <img src="https://skillicons.dev/icons?i=php" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=dart" />
-  <br><br>
-  <!-- Baris 2 -->
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=flutter" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <br><br>
-  <!-- Baris 3 -->
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-  <img src="https://skillicons.dev/icons?i=prisma" />
-  <img src="https://skillicons.dev/icons?i=git" />
+
+<!-- Baris 1 & 2 digabung biar load lebih cepat -->
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,java,dart,tailwind,flutter,nodejs,react,express,solidity" />
+
+<br><br>
+
+<!-- Baris 3 -->
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,git" />
+
 </div>
 
 <br>
 
-###  GitHub Stats
+### 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AkbrMlnaa&show_icons=true&count_private=true&hide_border=true&title_color=E63946&icon_color=E63946&text_color=c9d1d9&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AkbrMlnaa&cache_seconds=86400&show_icons=true&count_private=true&hide_border=true&title_color=E63946&icon_color=E63946&text_color=c9d1d9&bg_color=0d1117" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbrMlnaa&layout=compact&hide_border=true&title_color=E63946&text_color=c9d1d9&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbrMlnaa&cache_seconds=86400&layout=compact&hide_border=true&title_color=E63946&text_color=c9d1d9&bg_color=0d1117" />
     </td>
   </tr>
 </table>
@@ -56,4 +43,4 @@
 
 <br>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkbrMlnaa&theme=red" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkbrMlnaa&theme=tokyonight" />
