@@ -54,6 +54,7 @@
 
 <br>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkbrMlnaa&theme=red" />
+<img src="https://ghchart.rshah.org/ff0000/AkbrMlnaa" alt="AkbrMlnaa's Github chart" />
 
-[![AkbrMlnaa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkbrMlnaa&bg_color=0d1117&color=ff0000&line=ff0000&point=ff0000&area=true&area_color=ff4d4d)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
