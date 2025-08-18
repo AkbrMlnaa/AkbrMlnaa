@@ -18,13 +18,13 @@
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=solidity" />
   <br><br>
   <!-- Baris 2 -->
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=solidity" />
   <br><br>
   <!-- Baris 3 -->
   <img src="https://skillicons.dev/icons?i=mysql" />
