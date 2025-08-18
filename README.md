@@ -2,7 +2,7 @@
 
 # Hello everyone, I'm Akbar 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&random=false&width=505&height=60&lines=Learning+Web3+%26+Blockchain+Tech;intrstd+in+decentralized+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&random=false&width=505&height=60&lines=Learning+Web3+%26+Blockchain+Tech" alt="Typing SVG" />
 
 </div>
 
@@ -18,11 +18,9 @@
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=dart" />
   <br><br>
   <!-- Baris 2 -->
   <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=flutter" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=express" />
