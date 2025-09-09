@@ -18,6 +18,7 @@
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=go" />
   <img src="https://skillicons.dev/icons?i=solidity" />
   <br><br>
   <!-- Baris 2 -->
