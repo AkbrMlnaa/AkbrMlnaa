@@ -26,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg" alt="Fiber" width="50" />
+
   <br><br>
   <!-- Baris 3 -->
   <img src="https://skillicons.dev/icons?i=mysql" />
