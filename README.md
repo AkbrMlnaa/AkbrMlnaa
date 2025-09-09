@@ -2,7 +2,7 @@
 
 # Hello everyone, I'm Akbar 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&random=false&width=505&height=60&lines=Learning+W3+%26+Blckchain+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&random=false&width=505&height=60&lines=Learning+Web3+%26+Blockchain+Tech" alt="Typing SVG" />
 
 </div>
 
@@ -11,34 +11,41 @@
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 <div align="center"><br>
-  <!-- Baris 1 -->
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
-  <img src="https://skillicons.dev/icons?i=php" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=go" />
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <br><br>
-  <!-- Baris 2 -->
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg" alt="Fiber" width="50" />
 
-  <br><br>
-  <!-- Baris 3 -->
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-  <img src="https://skillicons.dev/icons?i=prisma" />
-  <img src="https://skillicons.dev/icons?i=git" />
+<!-- Baris 1 -->
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="50"/>
+<img src="https://skillicons.dev/icons?i=php" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=go" height="50"/>
+<img src="https://skillicons.dev/icons?i=solidity" height="50"/>
+
+<br><br>
+
+<!-- Baris 2 -->
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=express" height="50"/>
+<img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg" alt="Fiber" height="50"/>
+
+<br><br>
+
+<!-- Baris 3 -->
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+<img src="https://skillicons.dev/icons?i=prisma" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+
 </div>
 
-<br>
+---
 
-###  GitHub Stats
+### 📊 GitHub Stats
+
+<div align="center">
 
 <table>
   <tr>
@@ -58,3 +65,5 @@
 <br>
 
 [![AkbrMlnaa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkbrMlnaa&bg_color=0d1117&color=ff0000&line=ff0000&point=ff0000&area=true&area_color=ff4d4d)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
