@@ -51,7 +51,6 @@
 
 <p align="center">
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkbrMlnaa&theme=highcontrast&hide_border=true&stroke=E63946&background=0D1117&ring=E63946&fire=E63946&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
-  <img src="https://github-readme-activity-graph-camo.vercel.app/graph?username=AkbrMlnaa&theme=redical" />
 </p>
 
 
