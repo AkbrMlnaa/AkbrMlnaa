@@ -40,16 +40,25 @@
 
 ---
 
-### 📊 GitHub Stats
-
+<!-- 📊 GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkbrMlnaa&show_icons=true&count_private=true&hide_border=true&title_color=E63946&icon_color=E63946&text_color=c9d1d9&bg_color=0d1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbrMlnaa&layout=compact&hide_border=true&title_color=E63946&text_color=c9d1d9&bg_color=0d1117" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AkbrMlnaa&show_icons=true&count_private=true&hide_border=true&title_color=E63946&icon_color=E63946&text_color=c9d1d9&bg_color=0d1117&cache_seconds=3600&v=2" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbrMlnaa&layout=compact&hide_border=true&title_color=E63946&text_color=c9d1d9&bg_color=0d1117&cache_seconds=3600&v=2" 
+    height="180"
+  />
+</p>
+<!-- 🔥 Streak Stats -->
+<p align="center">
+  <img 
+    width="98%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AkbrMlnaa&theme=highcontrast&hide_border=true&stroke=E63946&background=0D1117&ring=E63946&fire=E63946&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&v=2"
+  />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkbrMlnaa&theme=highcontrast&hide_border=true&stroke=E63946&background=0D1117&ring=E63946&fire=E63946&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
-</p>
 
 
 <p align="center">
