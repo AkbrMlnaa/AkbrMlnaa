@@ -37,6 +37,8 @@
   <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
   <img src="https://skillicons.dev/icons?i=prisma" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://dbeaver.io/wp-content/uploads/2021/11/dbeaver-head.png" height="50"/>
+
 </p>
 
 ---
