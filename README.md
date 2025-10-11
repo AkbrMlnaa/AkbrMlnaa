@@ -17,7 +17,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="50"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="50"/>
   <img src="https://skillicons.dev/icons?i=typescript" height="50"/>
-  <img src="https://skillicons.dev/icons?i=php" height="50"/>
   <img src="https://skillicons.dev/icons?i=java" height="50"/>
   <img src="https://skillicons.dev/icons?i=go" height="50"/>
   <img src="https://skillicons.dev/icons?i=solidity" height="50"/>
