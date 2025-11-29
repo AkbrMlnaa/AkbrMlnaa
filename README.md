@@ -41,16 +41,18 @@
 ---
 
 <!-- 📊 GitHub Stats Section -->
-<p align="center">
+<div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=AkbrMlnaa&show_icons=true&count_private=true&hide_border=true&title_color=E63946&icon_color=E63946&text_color=c9d1d9&bg_color=0d1117&cache_seconds=3600&v=2" 
+    src="https://github-readme-stats.vercel.app/api?username=AkbrMlnaa&show_icons=true&count_private=true&hide_border=true&title_color=E63946&icon_color=E63946&text_color=c9d1d9&bg_color=0d1117&v=2" 
     height="180"
   />
+
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbrMlnaa&layout=compact&hide_border=true&title_color=E63946&text_color=c9d1d9&bg_color=0d1117&cache_seconds=3600&v=2" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbrMlnaa&layout=compact&hide_border=true&title_color=E63946&text_color=c9d1d9&bg_color=0d1117&v=2" 
     height="180"
   />
-</p>
+</div>
+
 <!-- 🔥 Streak Stats -->
 <p align="center">
   <img 
